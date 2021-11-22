@@ -7,5 +7,5 @@
 - 📫 How to reach me: fagozie43@gmail.com
 
 <br>
-<img src='https://github-readme-stats.vercel.app/api?username=f-gozie&count_private=true&show_icons=true&theme=dark'>
+<img src='https://github-readme-stats.vercel.app/api?username=f-gozie&count_private=true&show_icons=true&theme=dark&hide=contribs,issues'>
 <br>
